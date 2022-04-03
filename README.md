@@ -1,13 +1,13 @@
-### Hi there,
-### I am trying to better developer 👍👍
-### contact : ✉ yu9092@naver.com
+#### Hello,
+#### I am trying to better developer 👧🏻
+#### contact : ✉ yu9092@naver.com
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYuHyeRi%2Fhit-counter&count_bg=%23E9CED2&title_bg=%23555555&icon=bilibili.svg&icon_color=%23FFF9F9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=YuHyeRi%20&fontSize=90" />
 
 
-### 😁 stack 😁
+### 🟡stack🟡
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
